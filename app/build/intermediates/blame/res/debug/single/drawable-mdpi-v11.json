@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11\\ic_action_edit.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi-v11\\ic_action_edit.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11\\ic_action_add.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi-v11\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v11\\ic_action_search.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi-v11\\ic_action_search.png"
+    }
+]

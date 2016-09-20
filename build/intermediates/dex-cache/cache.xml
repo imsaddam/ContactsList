@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="D:\Studio Project\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_34a57f82165fcc191123ae4d70b3d0379c72c265\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Project\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="D:\Studio Project\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_6ea88570d5151b12400c16f701b125f6913d3c53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Project\ContactsList\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="47b719a8770cc5da5e6d56ff14cbad11934cdf1a">
+        <dex dex="D:\Studio Project\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_c674190266d1587ed07b7f09afa0b8a22c035a66\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Project\ContactsList\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="D:\Studio Project\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_4c1d22ded5ad838d5227821a4eb4924d80044acf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Studio Project\ContactsList\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="fb70ee79e66a481a2e136a84c99feb51536b2873">
+        <dex dex="D:\Studio Project\ContactsList\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_69f5a3806c219dd3e94a36362de0aac6ccf7728d\classes.dex" />
+    </item>
+
+</items>

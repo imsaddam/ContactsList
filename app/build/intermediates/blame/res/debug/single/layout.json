@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_fragment.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\layout\\contact_list_fragment.xml"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_spalsh_screen.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\layout\\main_spalsh_screen.xml"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_twopanes.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\layout\\activity_main_twopanes.xml"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_list_item.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\layout\\contact_list_item.xml"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail_fragment.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\layout\\contact_detail_fragment.xml"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contact_detail_item.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\layout\\contact_detail_item.xml"
+    }
+]

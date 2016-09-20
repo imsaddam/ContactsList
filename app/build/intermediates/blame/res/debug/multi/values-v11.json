@@ -1,0 +1,106 @@
+[
+    {
+        "outputFile": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 69,
+                    "endOffset": 120
+                },
+                "from": {
+                    "file": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 955,
+                        "endColumn": 69,
+                        "endOffset": 1020
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 125,
+                    "endColumn": 87,
+                    "endOffset": 208
+                },
+                "from": {
+                    "file": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1475,
+                        "endColumn": 87,
+                        "endOffset": 1558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 213,
+                    "endLine": 8,
+                    "endColumn": 12,
+                    "endOffset": 466
+                },
+                "from": {
+                    "file": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endLine": 35,
+                        "endColumn": 12,
+                        "endOffset": 1469
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 471,
+                    "endLine": 11,
+                    "endColumn": 12,
+                    "endOffset": 611
+                },
+                "from": {
+                    "file": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1026,
+                        "endLine": 27,
+                        "endColumn": 12,
+                        "endOffset": 1166
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 616,
+                    "endColumn": 42,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1172,
+                        "endColumn": 42,
+                        "endOffset": 1210
+                    }
+                }
+            }
+        ]
+    }
+]

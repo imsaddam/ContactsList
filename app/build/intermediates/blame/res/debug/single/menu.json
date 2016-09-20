@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\menu\\contact_list_menu.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\menu\\contact_list_menu.xml"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\menu\\contact_detail_menu.xml",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\menu\\contact_detail_menu.xml"
+    }
+]

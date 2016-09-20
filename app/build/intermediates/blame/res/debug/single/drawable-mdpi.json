@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_contact_picture_holo_light.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\ic_contact_picture_holo_light.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_contact_picture_180_holo_light.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\ic_contact_picture_180_holo_light.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\quickcontact_badge_small_pressed.9.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\quickcontact_badge_small_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_map.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\ic_action_map.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_add.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_search.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_action_edit.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\quickcontact_badge_small_unpressed.9.png",
+        "source": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\drawable-mdpi\\quickcontact_badge_small_unpressed.9.png"
+    }
+]

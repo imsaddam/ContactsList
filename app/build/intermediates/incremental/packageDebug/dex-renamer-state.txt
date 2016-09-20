@@ -1,0 +1,7 @@
+#Wed Sep 21 02:39:28 BDT 2016
+base.0=D\:\\Studio Project\\ContactsList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69f5a3806c219dd3e94a36362de0aac6ccf7728d
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\Studio Project\\ContactsList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c674190266d1587ed07b7f09afa0b8a22c035a66\\classes.dex
+base.1=D\:\\Studio Project\\ContactsList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_c674190266d1587ed07b7f09afa0b8a22c035a66
+file.0=D\:\\Studio Project\\ContactsList\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_69f5a3806c219dd3e94a36362de0aac6ccf7728d\\classes.dex

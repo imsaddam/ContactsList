@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Studio Project\\ContactsList\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw720dp-v13\\values-sw720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 38,
+                    "endOffset": 89
+                },
+                "from": {
+                    "file": "D:\\Studio Project\\ContactsList\\app\\src\\main\\res\\values-sw720dp\\dimens.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 900,
+                        "endColumn": 38,
+                        "endOffset": 934
+                    }
+                }
+            }
+        ]
+    }
+]
